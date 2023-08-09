@@ -1,4 +1,7 @@
-const num=5
-const num1=10
+const num1=5
+const num2=10
+console.log("Sum:")
+console.log(num1+num2)
 
-console.log(num+num1)
+console.log("Multiply:")
+console.log(num1*num2)
